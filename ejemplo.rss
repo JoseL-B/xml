@@ -3,21 +3,6 @@
     <!-- Información del canal -->
     <channel>
 
-        <image>
-            <url>https://validator.w3.org/feed/images/valid-rss-rogers.png</url>
-            <!-- El título tiene que ser el mismo que el del canal... -->
-            <title>Ejemplo de feed RSS</title>            
-            <link>https://ejemplo.com</link>
-            <width>88</width>
-	        <height>31</height>
-        </image>
-        <!--
-            Aconsejable añadir esta línea y declarar el espacio de nombres Atom en el elemento rss para seguir las recomendaciones
-            <atom:link href="https://ejemplo.com/feed.xml" rel="self" type="application/rss+xml" />
-            En este caso concreto, al ser un ejemplo y no tener acceso a esa URL, lo que haré será poner una de github donde he subido
-            el archivo. Así no da ningún error ni recomendación al validarlo con la URI: https://validator.w3.org/feed/#validate_by_uri
-        -->        
-        <atom:link href="https://josel-b.github.io/xml/ejemplo.rss" rel="self" type="application/rss+xml" />
 
         <!-- Primera entrada -->
         <item>
