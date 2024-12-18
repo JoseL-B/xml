@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <!-- Información del canal -->
     <channel>
-        <title>Ejemplo de feed RSS</title>
         <link>https://ejemplo.com</link>
         <description>Este es el feed RSS de ejemplo para el punto 15 de la tarea evaluativa.</description>
         <language>es</language>
